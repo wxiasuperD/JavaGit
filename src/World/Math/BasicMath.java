@@ -14,7 +14,7 @@ public class BasicMath {
 	
 	public int sub(int a , int b)
 	{
-		return a-b;
+		return a-b ;
 	}
 	
 	
